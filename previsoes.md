@@ -1,6 +1,6 @@
 ## Parte A — MongoDB
 
-### A1. Painel do pátio
+### A1
 
 Previsão da A: Como não tem índice, o banco provavelmente vai rodar um COLLSCAN, lendo ele todo para achar a informação desejada
 
